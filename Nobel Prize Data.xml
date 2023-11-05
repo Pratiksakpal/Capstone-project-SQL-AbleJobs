@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7545</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="25" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110.25" ss:Span="3"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">year</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">subject</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">winner</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">country</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">category</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hannes Alfven</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sweden</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Louis Neel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chemistry</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Luis Federico Leloir'</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physiology</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ulf von Euler</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sweden</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physiology</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bernard Katz</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Aleksandr Solzhenitsyn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Russia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linguist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Paul Samuelson</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">USA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1970</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physiology</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Julius Axelrod</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">USA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Dennis Gabor</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Hungary</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chemistry</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Gerhard Herzberg</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peace</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Willy Brandt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chancellor </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pablo Neruda</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chile</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linguist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1971</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Simon Kuznets</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Russia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1978</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peace</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Anwar al-Sadat</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Egypt</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">President </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1978</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peace</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Menachem Begin</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Israel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Prime Minister </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1987</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chemistry</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Donald J. Cram</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">USA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1987</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chemistry</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Jean-Marie Lehn</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">France</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1987</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physiology</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Susumu Tonegawa</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Japan</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1994</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Reinhard Selten</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1994</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peace</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Yitzhak Rabin</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Israel</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Prime Minister </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1987</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Physics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Johannes Georg Bednorz</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Germany</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Scientist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1987</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Joseph Brodsky</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Russia</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linguist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1987</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economics</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Robert Solow</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">USA</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Economist </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1994</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Literature</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Kenzaburo Ое</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Japan</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Linguist</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
